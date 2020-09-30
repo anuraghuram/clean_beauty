@@ -1,4 +1,4 @@
-# cleanbeauty
+# clean_beauty
 
 I've always been interested in sustainable beauty and wanted to explore how product interest and demand varies across Sephora's [Clean at Sephora](https://www.sephorastands.com/sustainability/) range. All data visualizations were produced using plotly.py and can be viewed [here](/output).
 
